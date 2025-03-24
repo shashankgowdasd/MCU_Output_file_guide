@@ -42,6 +42,7 @@ Similar to the Intel HEX format, but primarily used in Motorola, Freescale, and 
 
 A compiled library of object files (.o) used in modular embedded applications, reducing code redundancy and improving maintainability.
 
+
 8. Dependency File (.d) – Build System Dependencies
 
 
